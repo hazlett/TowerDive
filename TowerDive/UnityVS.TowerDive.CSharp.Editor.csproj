@@ -112,9 +112,6 @@
     <Reference Include="UnityVS.VersionSpecific 1">
       <HintPath>Assets\UnityVS\Editor\UnityVS.VersionSpecific 1.dll</HintPath>
     </Reference>
-    <Reference Include="UnityVS.VersionSpecific">
-      <HintPath>Assets\UnityVS\Editor\UnityVS.VersionSpecific.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityVS.TowerDive.CSharp.csproj">
